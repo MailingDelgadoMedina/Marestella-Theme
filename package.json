@@ -1,0 +1,35 @@
+{
+    "name": "marestella-",
+    "displayName": "Marestella ",
+    "description": "Marestella Theme is inspired by Anina my daughter that has an ASD beautiful mind that navigates in a world of unicorns and rainbows.",
+    "version": "1.0.0",
+    "publisher":"MailingDelgado",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MailingDelgadoMedina/Marestella-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "unicorn rainbow dark",
+        "marestella",
+        "marestella theme",
+        "mailing delgado theme", 
+        "purple and neon colors theme"
+    ],
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marestella Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Marestella Theme-color-theme.json"
+            }
+        ]
+    }
+}
