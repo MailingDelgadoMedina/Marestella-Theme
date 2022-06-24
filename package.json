@@ -1,9 +1,17 @@
+
 {
-    "name": "marestella-",
-    "displayName": "Marestella ",
-    "description": "Marestella Theme inspired by Anina",
-    "version": "0.0.1",
-    "publisher":"MailingDelgado",
+    "manifestVersion": 1,
+    "id": "MailingDelgado",
+    "version": "1.0.0",
+    "displayName":"Marestella Theme",
+    "name": "marestella",
+    "description": "Marestella Theme is inspired by Anina my daughter that has an ASD beautiful mind that navigates in a world of unicorns and rainbows. ",
+    "publisher": "MailingDelgado",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/MailingDelgadoMedina/Marestella-Theme"
@@ -33,3 +41,4 @@
         ]
     }
 }
+
