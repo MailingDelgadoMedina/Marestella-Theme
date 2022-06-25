@@ -1,12 +1,11 @@
-
 {
     "manifestVersion": 1,
     "id": "MailingDelgado",
-    "version": "1.0.0",
-    "displayName":"Marestella Theme",
+    "version": "1.1.0",
+    "displayName": "Marestella Theme",
     "name": "marestella",
     "description": "Marestella Theme is inspired by Anina my daughter that has an ASD beautiful mind that navigates in a world of unicorns and rainbows. ",
-    "icon":"Logo.png",
+    "icon": "Logo.png",
     "publisher": "MailingDelgado",
     "targets": [
         {
@@ -23,7 +22,7 @@
         "unicorn rainbow dark",
         "marestella",
         "marestella theme",
-        "mailing delgado theme", 
+        "mailing delgado theme",
         "purple and neon colors theme"
     ],
     "engines": {
@@ -42,4 +41,3 @@
         ]
     }
 }
-
